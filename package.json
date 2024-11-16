@@ -4,5 +4,8 @@
     "express": "^4.21.1",
     "socket.io": "^4.8.1",
     "soket.io": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
